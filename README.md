@@ -69,7 +69,3 @@ After the tests are completed, your Excel file will be updated with the results 
 - Ensure that your Excel file follows the correct structure and is accessible by the script.
 - The script assumes that the response body is in JSON format. Adjust it if working with other formats.
 - If an HTTP request fails, the status code will be logged, and the test result will be marked as failed.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
