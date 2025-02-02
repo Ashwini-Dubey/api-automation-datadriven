@@ -1,0 +1,16 @@
+*.png
+*.html
+*.log
+__pycache__/
+/reports
+*.txt
+.DS_Store
+__init__.py
+.env
+node_modules/
+*.xml
+/assets
+.idea/
+/config
+/logs
+/src
